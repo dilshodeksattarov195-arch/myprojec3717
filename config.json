@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifysetch",
+        "uuid": 24435558,
+        "checksum": "f8kg4y"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
